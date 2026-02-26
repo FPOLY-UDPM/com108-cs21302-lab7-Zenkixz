@@ -12,7 +12,8 @@
 //VIẾT CODE Ở ĐÂY
 #include <stdio.h>
 #include <string.h>
-main ()
+ 
+int main()
 {
     char str[100];
     int i, nguyen_am = 0, phu_am = 0;
